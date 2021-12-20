@@ -28,3 +28,11 @@ psi_total_summary
 
 # manufacturing lot summary
 lot_summary <- Coil_Data %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median = median(PSI),Variance = var(PSI),Standard_Dev = sd(PSI), .groups = 'keep') 
+
+
+# Deliverable 3
+# t-test for all lots
+t.test((Coil_Data$PSI),mu = 1500)
+
+# t-test for each individual lot
+t.t-test
