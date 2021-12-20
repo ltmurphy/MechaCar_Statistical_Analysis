@@ -33,5 +33,4 @@ The images provided below show the p-values of the lots as a whole and individua
 
 
 ## Study Design: MechaCar vs Competition
-
-
+The metrics to evaluate between MechaCar and a competitor or competitors would be the same metrics for testing the performance of any car. MPG and price are two of the most important variables followed closely by maintenance cost and resale value. In this study comparing these external performance categories to the MechaCar the null hypothesis is the competitors will not differ from MechaCar in the performance categories. This makes our alternative hypothesis that they will differ. Since we are wanting to compare the MechaCar's performance to various other competitors the ANOVA statistical test is the best choice. It is tailored to compare means across a number of different groups. In order to conduct this study we would need data on the MPG,price, maintenance cost, and resale value. 
