@@ -13,9 +13,25 @@ The images below contain the total summary dataframe and the lot summary datafra
 
 ### Total Summary
 
+![Total_Summary](https://user-images.githubusercontent.com/89947873/146816277-5e838bbb-db49-4c06-86d0-c15cda524ed4.png)
 
 ### Lot Summary
 
+![Lot_Summary](https://user-images.githubusercontent.com/89947873/146816284-a7579aec-bd86-4e4f-9a06-2bbaf386605b.png)
 
 
 ## T-Tests on Suspension Coils
+The images provided below show the p-values of the lots as a whole and individually. The total p-value is .06 and if we assume any significant value would be below .05(the standard) then this value does not significantly different from the standard 1500psi. However, further examination of the t-tests for individual lots raises a flag. The p-values for lots one and two are above the .05 standard but lot three is coming in slightly under at .04 making it significant.
+
+### Total t-test
+
+![Total_t-test](https://user-images.githubusercontent.com/89947873/146817413-489e22ba-7da9-44c1-9ae3-70d9dc97a2a4.png)
+
+### Lot t-test
+
+![Lot_t-test](https://user-images.githubusercontent.com/89947873/146817434-5edc6bc3-81d8-4661-bc52-3fbdc0a95322.png)
+
+
+## Study Design: MechaCar vs Competition
+
+
