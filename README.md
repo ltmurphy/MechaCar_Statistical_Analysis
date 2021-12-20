@@ -13,8 +13,9 @@ The images below contain the total summary dataframe and the lot summary datafra
 
 ### Total Summary
 
-![Total_Summary](https://user-images.githubusercontent.com/89947873/146813246-b818c109-b783-450b-85d4-c6b212713266.png)
 
 ### Lot Summary
 
-![Lot_Summary](https://user-images.githubusercontent.com/89947873/146813251-82700dbe-e19c-4eb6-be65-1afdb8d676f9.png)
+
+
+## T-Tests on Suspension Coils
